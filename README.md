@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Syahren
+
+ [![Instagram Badge](https://img.shields.io/badge/-@maddhruv-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/_nerhays)](https://www.instagram.com/_nerhays)
 <!--
 **nerhays/nerhays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
